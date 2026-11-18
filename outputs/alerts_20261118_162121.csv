@@ -1,0 +1,9 @@
+city,level,type,title,message,time
+London,CRITICAL,STORM,Thunderstorm alert,"Thunderstorm detected in forecast. Avoid open fields, water and tall isolated objects; secure outdoor items.",Nov 19 00:00
+London,WARNING,HIGH_TEMPERATURE,High temperature alert,Temperature 12.4°C meets the heat threshold (5.0°C). Stay hydrated.,Nov 18 12:00
+London,WARNING,HIGH_TEMPERATURE,High temperature alert,Temperature 12.8°C meets the heat threshold (5.0°C). Stay hydrated.,Nov 18 15:00
+London,WARNING,HUMIDITY,High humidity alert,Humidity 84% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.,Nov 18 21:00
+London,WARNING,HIGH_TEMPERATURE,High temperature alert,Temperature 8.6°C meets the heat threshold (5.0°C). Stay hydrated.,Nov 19 00:00
+London,WARNING,HUMIDITY,High humidity alert,Humidity 87% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.,Nov 19 00:00
+London,WARNING,HIGH_TEMPERATURE,High temperature alert,Temperature 7.5°C meets the heat threshold (5.0°C). Stay hydrated.,Nov 20 00:00
+London,WARNING,HUMIDITY,High humidity alert,Humidity 84% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.,Nov 20 00:00

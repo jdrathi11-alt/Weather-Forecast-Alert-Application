@@ -1,0 +1,5 @@
+city,level,type,title,message,time
+Tokyo,WARNING,RAIN,Rain alert,Light Rain expected with 54% probability. Carry an umbrella / plan drainage checks.,Nov 19 01:00
+Tokyo,WARNING,HUMIDITY,High humidity alert,Humidity 82% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.,Nov 19 01:00
+Tokyo,WARNING,RAIN,Rain alert,Light Rain expected with 83% probability. Carry an umbrella / plan drainage checks.,Nov 20 01:00
+Tokyo,WARNING,HUMIDITY,High humidity alert,Humidity 83% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.,Nov 20 01:00

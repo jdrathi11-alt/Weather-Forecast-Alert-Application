@@ -1,0 +1,7 @@
+city,level,type,title,message,time
+London,CRITICAL,STORM,Thunderstorm alert,"Thunderstorm detected in forecast. Avoid open fields, water and tall isolated objects; secure outdoor items.",Nov 19 00:00
+London,WARNING,RAIN,Rain alert,Light Rain expected with 62% probability. Carry an umbrella / plan drainage checks.,Nov 18 18:00
+London,WARNING,HUMIDITY,High humidity alert,Humidity 84% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.,Nov 18 21:00
+London,WARNING,RAIN,Rain alert,Thunderstorm With Rain expected with 85% probability. Carry an umbrella / plan drainage checks.,Nov 19 00:00
+London,WARNING,HUMIDITY,High humidity alert,Humidity 87% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.,Nov 19 00:00
+London,WARNING,HUMIDITY,High humidity alert,Humidity 84% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.,Nov 20 00:00

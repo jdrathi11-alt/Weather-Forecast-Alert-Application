@@ -1,0 +1,73 @@
+==================================================================
+ WEATHER FORECAST & ALERT REPORT
+==================================================================
+City        : Delhi, XX
+Coordinates : -2.518, -34.104
+Generated   : 2026-11-18 16:38:07 UTC
+Data source : SIMULATION (sample data)
+------------------------------------------------------------------
+CURRENT CONDITIONS
+------------------------------------------------------------------
+  Time          : 2026-11-18T16:00:00Z
+  Temperature   : 12.4°C  (feels like 11.9°C)
+  Condition     : Rain - light rain
+  Humidity      : 77%
+  Pressure      : 1017 hPa
+  Wind          : 14.8 km/h
+  Visibility    : 7111 m
+
+------------------------------------------------------------------
+FORECAST HEADLINES
+------------------------------------------------------------------
+  Slots analysed : 40
+  Days covered   : 6
+  Hottest        : 14.8°C at Fri Nov 20 16:00
+  Coldest        : 5.6°C at Fri Nov 20 01:00
+  Peak rain prob : 94% at Sun Nov 22 16:00
+  Avg humidity   : 78.5%
+  Rain hours     : 15 (prob >= 50%)
+
+------------------------------------------------------------------
+ALERTS
+------------------------------------------------------------------
+  [1] CRITICAL | Thunderstorm alert
+      when    : Nov 20 16:00
+      detail  : Thunderstorm detected in forecast. Avoid open fields, water and tall isolated objects; secure outdoor items.
+  [2] WARNING | Rain alert
+      when    : Nov 18 16:00
+      detail  : Light Rain expected with 91% probability. Carry an umbrella / plan drainage checks.
+  [3] WARNING | Rain alert
+      when    : Nov 18 19:00
+      detail  : Light Rain expected with 91% probability. Carry an umbrella / plan drainage checks.
+  [4] WARNING | High humidity alert
+      when    : Nov 18 22:00
+      detail  : Humidity 98% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.
+  [5] WARNING | Rain alert
+      when    : Nov 19 01:00
+      detail  : Light Rain expected with 83% probability. Carry an umbrella / plan drainage checks.
+  [6] WARNING | High humidity alert
+      when    : Nov 19 07:00
+      detail  : Humidity 90% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.
+  [7] WARNING | Rain alert
+      when    : Nov 20 04:00
+      detail  : Light Rain expected with 92% probability. Carry an umbrella / plan drainage checks.
+  [8] WARNING | High humidity alert
+      when    : Nov 20 07:00
+      detail  : Humidity 86% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.
+
+------------------------------------------------------------------
+ACTIVE THRESHOLDS (config.py)
+------------------------------------------------------------------
+  high_temp_c               : 28.0
+  high_temp_critical_c      : 40.0
+  low_temp_c                : 0.0
+  humidity_high_pct         : 80.0
+  humidity_low_pct          : 20.0
+  wind_kmh                  : 40.0
+  rain_probability          : 0.3
+  forecast_lookahead_hours  : 48
+
+
+==================================================================
+ END OF REPORT
+==================================================================

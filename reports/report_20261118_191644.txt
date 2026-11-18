@@ -1,0 +1,73 @@
+==================================================================
+ WEATHER FORECAST & ALERT REPORT
+==================================================================
+City        : London, GB
+Coordinates : 51.5074, -0.1278
+Generated   : 2026-11-18 19:16:44 UTC
+Data source : SIMULATION (sample data)
+------------------------------------------------------------------
+CURRENT CONDITIONS
+------------------------------------------------------------------
+  Time          : 2026-11-18T12:00:00Z
+  Temperature   : 12.4°C  (feels like 10.9°C)
+  Condition     : Clouds - overcast clouds
+  Humidity      : 76%
+  Pressure      : 1012 hPa
+  Wind          : 5.4 km/h
+  Visibility    : 8000 m
+
+------------------------------------------------------------------
+FORECAST HEADLINES
+------------------------------------------------------------------
+  Slots analysed : 43
+  Days covered   : 6
+  Hottest        : 12.8°C at Wed Nov 18 15:00
+  Coldest        : 5.5°C at Mon Nov 23 06:00
+  Peak rain prob : 85% at Thu Nov 19 00:00
+  Avg humidity   : 79.1%
+  Rain hours     : 4 (prob >= 50%)
+
+------------------------------------------------------------------
+ALERTS
+------------------------------------------------------------------
+  [1] CRITICAL | Thunderstorm alert
+      when    : Nov 19 00:00
+      detail  : Thunderstorm detected in forecast. Avoid open fields, water and tall isolated objects; secure outdoor items.
+  [2] WARNING | Rain alert
+      when    : Nov 18 18:00
+      detail  : Light Rain expected with 62% probability. Carry an umbrella / plan drainage checks.
+  [3] WARNING | High humidity alert
+      when    : Nov 18 21:00
+      detail  : Humidity 84% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.
+  [4] WARNING | Rain alert
+      when    : Nov 19 00:00
+      detail  : Thunderstorm With Rain expected with 85% probability. Carry an umbrella / plan drainage checks.
+  [5] WARNING | High humidity alert
+      when    : Nov 19 00:00
+      detail  : Humidity 87% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.
+  [6] WARNING | High humidity alert
+      when    : Nov 20 00:00
+      detail  : Humidity 84% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.
+
+------------------------------------------------------------------
+ACTIVE THRESHOLDS (config.py)
+------------------------------------------------------------------
+  high_temp_c               : 35.0
+  high_temp_critical_c      : 40.0
+  low_temp_c                : 0.0
+  humidity_high_pct         : 80.0
+  humidity_low_pct          : 20.0
+  wind_kmh                  : 40.0
+  rain_probability          : 0.5
+  forecast_lookahead_hours  : 48
+
+------------------------------------------------------------------
+CHARTS GENERATED
+------------------------------------------------------------------
+  - temperature_trend.png
+  - rain_humidity.png
+  - weather_conditions.png
+
+==================================================================
+ END OF REPORT
+==================================================================

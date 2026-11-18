@@ -1,0 +1,61 @@
+==================================================================
+ WEATHER FORECAST & ALERT REPORT
+==================================================================
+City        : Tokyo, JP
+Coordinates : 35.69, 139.692
+Generated   : 2026-11-18 19:03:19 UTC
+Data source : SIMULATION (sample data)
+------------------------------------------------------------------
+CURRENT CONDITIONS
+------------------------------------------------------------------
+  Time          : 2026-11-18T19:00:00Z
+  Temperature   : 10.4°C  (feels like 9.6°C)
+  Condition     : Clear - clear sky
+  Humidity      : 78%
+  Pressure      : 1021 hPa
+  Wind          : 23.8 km/h
+  Visibility    : 9872 m
+
+------------------------------------------------------------------
+FORECAST HEADLINES
+------------------------------------------------------------------
+  Slots analysed : 40
+  Days covered   : 6
+  Hottest        : 16.6°C at Sun Nov 22 13:00
+  Coldest        : 6.8°C at Mon Nov 23 04:00
+  Peak rain prob : 95% at Thu Nov 19 16:00
+  Avg humidity   : 77.2%
+  Rain hours     : 13 (prob >= 50%)
+
+------------------------------------------------------------------
+ALERTS
+------------------------------------------------------------------
+  [1] WARNING | Rain alert
+      when    : Nov 19 01:00
+      detail  : Light Rain expected with 54% probability. Carry an umbrella / plan drainage checks.
+  [2] WARNING | High humidity alert
+      when    : Nov 19 01:00
+      detail  : Humidity 82% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.
+  [3] WARNING | Rain alert
+      when    : Nov 20 01:00
+      detail  : Light Rain expected with 83% probability. Carry an umbrella / plan drainage checks.
+  [4] WARNING | High humidity alert
+      when    : Nov 20 01:00
+      detail  : Humidity 83% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.
+
+------------------------------------------------------------------
+ACTIVE THRESHOLDS (config.py)
+------------------------------------------------------------------
+  high_temp_c               : 35.0
+  high_temp_critical_c      : 40.0
+  low_temp_c                : 0.0
+  humidity_high_pct         : 80.0
+  humidity_low_pct          : 20.0
+  wind_kmh                  : 40.0
+  rain_probability          : 0.5
+  forecast_lookahead_hours  : 48
+
+
+==================================================================
+ END OF REPORT
+==================================================================

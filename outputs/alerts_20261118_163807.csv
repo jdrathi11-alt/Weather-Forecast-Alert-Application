@@ -1,0 +1,9 @@
+city,level,type,title,message,time
+Delhi,CRITICAL,STORM,Thunderstorm alert,"Thunderstorm detected in forecast. Avoid open fields, water and tall isolated objects; secure outdoor items.",Nov 20 16:00
+Delhi,WARNING,RAIN,Rain alert,Light Rain expected with 91% probability. Carry an umbrella / plan drainage checks.,Nov 18 16:00
+Delhi,WARNING,RAIN,Rain alert,Light Rain expected with 91% probability. Carry an umbrella / plan drainage checks.,Nov 18 19:00
+Delhi,WARNING,HUMIDITY,High humidity alert,Humidity 98% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.,Nov 18 22:00
+Delhi,WARNING,RAIN,Rain alert,Light Rain expected with 83% probability. Carry an umbrella / plan drainage checks.,Nov 19 01:00
+Delhi,WARNING,HUMIDITY,High humidity alert,Humidity 90% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.,Nov 19 07:00
+Delhi,WARNING,RAIN,Rain alert,Light Rain expected with 92% probability. Carry an umbrella / plan drainage checks.,Nov 20 04:00
+Delhi,WARNING,HUMIDITY,High humidity alert,Humidity 86% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.,Nov 20 07:00

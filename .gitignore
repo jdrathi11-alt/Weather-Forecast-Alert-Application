@@ -1,0 +1,41 @@
+# ============================================================
+# NEVER commit secrets
+# ============================================================
+.env
+*.env
+!.env.example
+
+# ============================================================
+# Python cruft
+# ============================================================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ============================================================
+# Generated run artifacts (recreated any time by running the app)
+# Curated SAMPLE artifacts that ARE committed live in docs/sample_outputs/
+# ============================================================
+outputs/*
+!outputs/.gitkeep
+reports/*
+!reports/.gitkeep
+data/*.csv
+data/*.json
+!data/sample_weather.json
+
+# ============================================================
+# Python cache
+# ============================================================
+**/__pycache__/
+
+# ============================================================
+# OS / editor noise
+# ============================================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

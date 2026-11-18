@@ -1,0 +1,46 @@
+==================================================================
+ WEATHER FORECAST & ALERT APPLICATION
+==================================================================
+[1/5] Data loaded  : London (simulation mode)
+[2/5] Analysed     : 43 forecast slots, 6 days
+[3/5] Alerts       : 6 alert(s)  [CRITICAL: 1, WARNING: 5, INFO: 0]
+[4/5] Charts       : 3 saved to images/
+[5/5] Saved        : /sessions/sharp-admiring-shannon/mnt/Weather Forecast & Alert Application/reports/report_20261118_162449.txt
+                 + CSV/JSON bundles in outputs/
+                 Email   : SKIPPED - SMTP not configured (set SMTP_HOST/SMTP_USER/SMTP_PASS/ALERT_RECIPIENT in .env)
+
+------------------------------------------------------------------
+ CURRENT WEATHER - London, GB
+------------------------------------------------------------------
+  2026-11-18T12:00:00Z  |  12.4°C  (Overcast Clouds)  Feels 10.9°C
+  Humidity 76%  |  Wind 5.4 km/h  |  Pressure 1012 hPa
+
+ DAILY FORECAST (next days)
+      date  min_temp  max_temp  avg_temp  avg_humidity  max_wind_kmh  max_rain_prob  rain_hours dominant_weather
+2026-11-18       9.8      12.8      11.3            79           6.7             78           2             Rain
+2026-11-19       7.2      11.6       9.0            82           7.9             85           2           Clouds
+2026-11-20       6.4      10.9       8.3            80           6.0              5           0           Clouds
+2026-11-21       6.1      10.2       7.8            79           4.8              0           0            Clear
+2026-11-22       5.7       9.6       7.3            78           4.0              5           0           Clouds
+2026-11-23       5.5       9.0       6.9            76           3.6              0           0            Clear
+
+------------------------------------------------------------------
+ ALERTS
+------------------------------------------------------------------
+  [CRITICAL] Thunderstorm alert (Nov 19 00:00)
+      Thunderstorm detected in forecast. Avoid open fields, water and tall isolated objects; secure outdoor items.
+  [WARNING] Rain alert (Nov 18 18:00)
+      Light Rain expected with 62% probability. Carry an umbrella / plan drainage checks.
+  [WARNING] High humidity alert (Nov 18 21:00)
+      Humidity 84% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.
+  [WARNING] Rain alert (Nov 19 00:00)
+      Thunderstorm With Rain expected with 85% probability. Carry an umbrella / plan drainage checks.
+  [WARNING] High humidity alert (Nov 19 00:00)
+      Humidity 87% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.
+  [WARNING] High humidity alert (Nov 20 00:00)
+      Humidity 84% (>= 80.0%). Mould risk indoors; heat index feels higher than actual temp.
+==================================================================
+ Full report : /sessions/sharp-admiring-shannon/mnt/Weather Forecast & Alert Application/reports/report_20261118_162449.txt
+ JSON bundle : /sessions/sharp-admiring-shannon/mnt/Weather Forecast & Alert Application/outputs/bundle_20261118_162449.json
+ Alerts CSV  : /sessions/sharp-admiring-shannon/mnt/Weather Forecast & Alert Application/outputs/alerts_20261118_162449.csv
+==================================================================

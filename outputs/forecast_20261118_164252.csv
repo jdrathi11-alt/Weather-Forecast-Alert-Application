@@ -1,0 +1,41 @@
+dt,temp,feels_like,humidity,pressure,wind_speed,weather,description,pop
+2026-11-18T19:00:00Z,13.4,12.6,78,1021,23.8,Clear,clear sky,0.12
+2026-11-18T22:00:00Z,10.9,10.8,82,1015,6.8,Rain,light rain,0.54
+2026-11-19T01:00:00Z,8.5,7.4,67,1024,24.8,Clouds,scattered clouds,0.1
+2026-11-19T04:00:00Z,7.3,6.5,84,1016,23.0,Clouds,scattered clouds,0.14
+2026-11-19T07:00:00Z,8.9,9.3,82,1005,12.6,Rain,light rain,0.85
+2026-11-19T10:00:00Z,11.8,11.7,61,1023,22.7,Clouds,scattered clouds,0.1
+2026-11-19T13:00:00Z,14.2,13.4,85,1012,8.6,Drizzle,light intensity drizzle,0.95
+2026-11-19T16:00:00Z,16.4,15.1,80,1012,23.0,Clear,clear sky,0.12
+2026-11-19T19:00:00Z,14.3,13.5,89,1016,25.9,Clear,clear sky,0.15
+2026-11-19T22:00:00Z,9.5,9.9,83,1017,5.4,Rain,light rain,0.83
+2026-11-20T01:00:00Z,7.5,7.0,87,1012,25.9,Clouds,scattered clouds,0.17
+2026-11-20T04:00:00Z,8.7,8.6,88,1016,28.8,Clear,clear sky,0.18
+2026-11-20T07:00:00Z,9.8,10.2,73,1023,18.0,Clouds,scattered clouds,0.15
+2026-11-20T10:00:00Z,13.1,13.5,81,1020,28.4,Clouds,scattered clouds,0.05
+2026-11-20T13:00:00Z,14.6,14.1,55,1023,24.8,Clear,clear sky,0.09
+2026-11-20T16:00:00Z,15.3,14.8,80,1010,4.7,Clear,clear sky,0.03
+2026-11-20T19:00:00Z,13.1,14.0,92,1017,6.1,Drizzle,light intensity drizzle,0.93
+2026-11-20T22:00:00Z,11.4,11.4,80,1019,12.2,Clear,clear sky,0.18
+2026-11-21T01:00:00Z,9.4,9.1,96,1024,20.9,Thunderstorm,thunderstorm with rain,0.55
+2026-11-21T04:00:00Z,8.9,8.0,74,1010,20.2,Clear,clear sky,0.14
+2026-11-21T07:00:00Z,10.0,9.3,74,1018,11.2,Clear,clear sky,0.18
+2026-11-21T10:00:00Z,13.3,12.9,89,1010,17.3,Rain,light rain,0.91
+2026-11-21T13:00:00Z,14.6,15.5,67,1013,4.0,Clear,clear sky,0.13
+2026-11-21T16:00:00Z,17.2,17.5,67,1023,13.3,Clouds,scattered clouds,0.12
+2026-11-21T19:00:00Z,15.1,15.6,74,1016,8.3,Rain,light rain,0.7
+2026-11-21T22:00:00Z,10.3,9.2,80,1014,5.8,Clear,clear sky,0.09
+2026-11-22T01:00:00Z,8.6,7.9,97,1005,24.5,Drizzle,light intensity drizzle,0.8
+2026-11-22T04:00:00Z,6.9,6.6,80,1017,7.6,Clouds,scattered clouds,0.09
+2026-11-22T07:00:00Z,9.6,10.0,72,1019,43.9,Thunderstorm,thunderstorm with rain,0.58
+2026-11-22T10:00:00Z,14.2,14.3,70,1008,29.9,Clouds,scattered clouds,0.18
+2026-11-22T13:00:00Z,15.8,14.5,84,1019,10.8,Clouds,scattered clouds,0.17
+2026-11-22T16:00:00Z,17.1,15.8,58,1008,23.8,Clear,clear sky,0.13
+2026-11-22T19:00:00Z,12.7,12.3,58,1019,30.2,Clear,clear sky,0.15
+2026-11-22T22:00:00Z,10.4,9.2,65,1007,4.7,Clouds,scattered clouds,0.1
+2026-11-23T01:00:00Z,7.1,7.0,93,1023,15.8,Rain,light rain,0.78
+2026-11-23T04:00:00Z,9.3,8.4,58,1006,17.3,Clear,clear sky,0.12
+2026-11-23T07:00:00Z,10.2,10.0,57,1015,14.0,Clear,clear sky,0.12
+2026-11-23T10:00:00Z,13.3,12.9,91,1009,18.0,Drizzle,light intensity drizzle,0.63
+2026-11-23T13:00:00Z,15.9,16.6,85,1016,21.6,Rain,light rain,0.73
+2026-11-23T16:00:00Z,16.2,15.1,71,1005,28.1,Clear,clear sky,0.14
