@@ -263,17 +263,7 @@ interview.
 
 ---
 
-## 🎯 Interview prep
 
-`docs/GUIDE.md` §14 contains 10 model answers, including the HR and Technical
-versions of **"Explain your project."** Short version:
-
-> *"I built a weather pipeline that pulls from OpenWeatherMap or a bundled
-> simulation, analyses 5-day forecasts with Pandas, raises rule-based alerts
-> with per-day deduplication, and outputs charts, CSVs, JSON and an optional
-> Streamlit dashboard. I kept secrets out of git with `.env` + `.gitignore`,
-> covered the logic with 16 unit tests, and made it run offline so demos never
-> depend on a key or network."*
 
 ---
 
