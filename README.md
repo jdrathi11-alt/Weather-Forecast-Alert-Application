@@ -149,7 +149,7 @@ Weather-Forecast-Alert-Application/
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/Weather-Forecast-Alert-Application.git
+git clone https://github.com/jdrathi11-alt/Weather-Forecast-Alert-Application.git
 cd Weather-Forecast-Alert-Application
 
 # 2. Virtual environment
